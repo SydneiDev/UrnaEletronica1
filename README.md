@@ -1,7 +1,6 @@
-# DigitalInnovationOne-Aula03
+#Urna Eletrônica
 
-Repositório de código para a Aula 03 - Sistema de votação baseado em Ethereum
-
+Repositório de teste de urna eletrônica
 ## Tópicos abordados nesse projeto
 
 * Smart Contract
